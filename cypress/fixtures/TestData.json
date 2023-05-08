@@ -1,0 +1,6 @@
+{
+    "name": "Using fixtures to represent data",
+    "email": "liveuserss@wtr-test.net",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "password": "test1234"
+  }
