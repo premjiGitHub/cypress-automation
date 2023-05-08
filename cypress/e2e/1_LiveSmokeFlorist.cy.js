@@ -138,13 +138,10 @@ describe('Florist LiveSmokePack', () =>{
             //cy.get("div.div[id='section_list_ads_f5_ntk_cs'] div[class='facet-list-wrap facet-list-wrap--active']").last().check().should('be.checked')
          
     })
-    
- 
-     
+
     it('6.Verify the HomePage Links', () =>{
         
        // LHS Validation Checkboxes
-       
        
     })
 }) 
