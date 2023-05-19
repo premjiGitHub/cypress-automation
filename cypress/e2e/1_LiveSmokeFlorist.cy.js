@@ -4,7 +4,7 @@ describe('Florist LiveSmokePack', () =>{
         return false;
       });
 
-    it.only('1.Login Florist Site', () =>{
+    it('1.Login Florist Site', () =>{
         
         cy.visit("https://www.waitroseflorist.com/")
         cy.get("#allow-all").click()    //id
